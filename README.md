@@ -20,9 +20,11 @@
  🎓 Education
 
 VISHWAKARMA INSTITUTE OF TECHNOLOGY 
+
 _Bachelor of Technology in Computer Science and Engineering (Artificial Intelligence)_  
 📍 Pune 
 📅 Sept 2024 – June 2028 
+
 Core Subjects: Linear Algebra, Calculus, Statistics, Data Structures, Algorithms, Python Programming, Database Systems , Problem Solving and Programming, Applied Electromechanics, Data Analysis. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
