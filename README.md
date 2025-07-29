@@ -34,7 +34,9 @@ Core Subjects: Linear Algebra, Calculus, Statistics, Data Structures, Algorithms
 | Name | Description | Tech Stack |
 
 | `Loan Default Prediction System` | ML model to predict loan default based on user behavior | Python, scikit-learn, Flask |
+
 | `ASL-Based Google Search` | Sign language input to perform web searches | JavaScript, TensorFlow, HTML/CSS |
+
 | `Portfolio Optimizer` | AI system using vector spaces for stock optimization | Python, NumPy, Matplotlib |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,4 +45,6 @@ Core Subjects: Linear Algebra, Calculus, Statistics, Data Structures, Algorithms
 
 - 🔗 LinkedIn: www.linkedin.com/in/disha-gupta-aa4055373
 - 📫 Email: disha.gupta24@vit.edu
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
